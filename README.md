@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/798655773214900255/830239278406828074/Comp_1.gif" alt="animated" />
+</p>
 
-<!--
-**myst0001/myst0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    @myst0001
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+    Discord Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    Currently learning how to Skid like a Pro
+</p>
+
+                                                                                                                                                                             
+  [discord](https://discord.com/invite/yt)・[instagram](https://www.instagram.com/mystwtfff/)・[youtube](https://www.youtube.com/channel/UCVBkmeqO57de4rJyVmoFvEg)・[github](https://github.com/myst0001)
