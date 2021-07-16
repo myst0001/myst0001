@@ -15,4 +15,4 @@
 </p>
 
                                                                                                                                                                              
-  [discord](https://discord.com/invite/yt)・[instagram](https://www.instagram.com/mystwtfff/)・[youtube](https://www.youtube.com/channel/UCVBkmeqO57de4rJyVmoFvEg)・[github](https://github.com/myst0001)
+  [discord](https://discord.com/invite/xly)・[instagram](https://www.instagram.com/mystwtfff/)・[youtube](https://www.youtube.com/channel/UCVBkmeqO57de4rJyVmoFvEg)・[github](https://github.com/myst0001)
