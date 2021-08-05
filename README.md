@@ -32,8 +32,8 @@
 <br />
 <br />
 
-<a href="https://github.com/myst0001/myst0001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyluxa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<a href="https://github.com/myst0001/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=myst0001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 <a href="https://github.com/myst0001/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myst0001&layout=compact)](https://github.com/myst0001/github-readme-stats"/>
