@@ -36,5 +36,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyluxa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 <a href="https://github.com/ilyluxa/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyLuxa&layout=compact)](https://github.com/ilyLuxa/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyLuxa&layout=compact)](https://github.com/myst0001/github-readme-stats"/>
 </a>
