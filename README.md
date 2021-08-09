@@ -7,6 +7,7 @@
 - ✨ I'm currently trying to improve my HTML skills
 - 🙌 I'm looking to collorabate with more developers
 - 📢 2021 Goals: Make more Open Source projects for people
+- 💻 Discord Services: https://discord.gg/Npu8g8PnYn
 
 ### Connect with me:
 
