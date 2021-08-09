@@ -12,7 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="myst | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC3P9YnpZz8CuaHNuzPss13g)
-[<img align="left" alt="myst | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/@mystlmao_)
 [<img align="left" alt="myst | Discord" width="22px" src="https://github.com/ilyLuxa/icon/blob/main/download.png" />](https://discords.com/bio/p/myst0001)
 
 <br />
