@@ -2,6 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=myst0001" alt="myst0001" /> 
 
+<iframe src="https://open.spotify.com/embed/playlist/4gperiLpJ0hMcgXxiuUpba" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## I'm a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
 - ✨ I'm currently trying to improve my HTML skills
