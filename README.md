@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=eozri&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=myst0001&color=blueviolet)
 
 # socials 🌎
 <img src="https://discord.c99.nl/widget/theme-1/746051373753171978.png">
